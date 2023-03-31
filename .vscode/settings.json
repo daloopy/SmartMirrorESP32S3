@@ -1,0 +1,20 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "c:\\Users\\wakanbi\\tools\\xtensa-esp-elf-gdb\\12.1_20221002\\xtensa-esp-elf-gdb\\bin;c:\\Users\\wakanbi\\tools\\riscv32-esp-elf-gdb\\12.1_20221002\\riscv32-esp-elf-gdb\\bin;c:\\Users\\wakanbi\\tools\\xtensa-esp32-elf\\esp-2022r1-11.2.0\\xtensa-esp32-elf\\bin;c:\\Users\\wakanbi\\tools\\xtensa-esp32s2-elf\\esp-2022r1-11.2.0\\xtensa-esp32s2-elf\\bin;c:\\Users\\wakanbi\\tools\\xtensa-esp32s3-elf\\esp-2022r1-11.2.0\\xtensa-esp32s3-elf\\bin;c:\\Users\\wakanbi\\tools\\riscv32-esp-elf\\esp-2022r1-11.2.0\\riscv32-esp-elf\\bin;c:\\Users\\wakanbi\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;c:\\Users\\wakanbi\\tools\\cmake\\3.24.0\\bin;c:\\Users\\wakanbi\\tools\\openocd-esp32\\v0.11.0-esp32-20221026\\openocd-esp32\\bin;c:\\Users\\wakanbi\\tools\\ninja\\1.10.2;c:\\Users\\wakanbi\\tools\\idf-exe\\1.0.3;c:\\Users\\wakanbi\\tools\\ccache\\4.6.2\\ccache-4.6.2-windows-x86_64;c:\\Users\\wakanbi\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;c:\\Users\\wakanbi\\tools\\esp-rom-elfs\\20230113",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "c:\\Users\\wakanbi\\tools\\openocd-esp32\\v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "c:\\Users\\wakanbi\\tools\\esp-rom-elfs\\20230113/"
+    },
+    "idf.espIdfPathWin": "c:\\Users\\wakanbi\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM7",
+    "idf.pythonBinPathWin": "c:\\Users\\wakanbi\\python_env\\idf5.1_py3.8_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "c:\\Users\\wakanbi",
+    "files.associations": {
+        "task.h": "c"
+    }
+}
